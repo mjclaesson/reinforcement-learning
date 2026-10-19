@@ -223,3 +223,7 @@ __marimo__/
 .local
 local
 /Sebastian
+
+# demo scratch output
+demo/screens/
+demo/*.log
