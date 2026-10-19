@@ -223,6 +223,7 @@ __marimo__/
 .local
 local
 /Sebastian
+.virtual_documents/
 
 # demo scratch output
 demo/screens/
