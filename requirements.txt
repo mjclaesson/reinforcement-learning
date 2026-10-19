@@ -1,3 +1,5 @@
 numpy
-jupyterlab
 matplotlib
+pandas
+streamlit
+jupyterlab
