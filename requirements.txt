@@ -1,5 +1,11 @@
+swig
 numpy
-matplotlib
 pandas
 streamlit
+gymnasium
+tensorflow
+matplotlib
 jupyterlab
+gymnasium[box2d]
+
+# python=3.12
